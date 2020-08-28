@@ -1,0 +1,31 @@
+{
+  "login":[
+    {
+      "name":"amit",
+      "password":"abe12345"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "KFC",
+      "email": "kfc@gmail.com",
+      "address": "saket",
+      "rating": "3",
+      "id": 8
+    },
+    {
+      "name": "Mcdonals",
+      "email": "mcdonal@gmail.com",
+      "address": "noida",
+      "rating": "3",
+      "id": 9
+    },
+    {
+      "name": "pizza",
+      "email": "pizza@gmail.com",
+      "address": "saket",
+      "rating": "4",
+      "id": 10
+    }
+  ]
+}
